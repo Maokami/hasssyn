@@ -1,0 +1,13 @@
+- id: 'Change this to arbitary string'
+  description: ''
+  trigger:
+  - platform: state
+    entity_id: person.jaeho
+    from: Home
+    to: NotHome
+  condition:
+  action:
+  - service: fan.turn_off
+    target:
+      entity_id: fan.xiaomi_smart_fan
+  mode: single

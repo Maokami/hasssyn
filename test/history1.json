@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T05:29:07.571928+00:00",
+      "last_updated": "2022-05-11T05:29:07.571928+00:00",
+      "state": "off"
+    },
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T09:13:45.435042+00:00",
+      "last_updated": "2022-05-11T09:13:45.435042+00:00",
+      "state": "on"
+    },
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T09:17:20.005374+00:00",
+      "last_updated": "2022-05-11T09:17:20.005374+00:00",
+      "state": "off"
+    }
+  ],
+  [
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T05:27:06.301960+00:00",
+      "last_updated": "2022-05-11T05:27:06.301960+00:00",
+      "state": "not_home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T09:11:43.616984+00:00",
+      "last_updated": "2022-05-11T09:11:43.616984+00:00",
+      "state": "home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T09:15:19.182585+00:00",
+      "last_updated": "2022-05-11T09:15:19.182585+00:00",
+      "state": "not_home"
+    }
+  ]
+]

@@ -1,0 +1,99 @@
+[
+  [
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-10T05:53:14.284931+00:00",
+      "last_updated": "2022-05-10T05:53:14.284931+00:00",
+      "state": "on"
+    },
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T05:29:07.571928+00:00",
+      "last_updated": "2022-05-11T05:29:07.571928+00:00",
+      "state": "off"
+    },
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T09:13:45.435042+00:00",
+      "last_updated": "2022-05-11T09:13:45.435042+00:00",
+      "state": "on"
+    },
+    {
+      "attributes": {},
+      "entity_id": "fan.xiaomi_smart_fan",
+      "last_changed": "2022-05-11T09:17:20.005374+00:00",
+      "last_updated": "2022-05-11T09:17:20.005374+00:00",
+      "state": "off"
+    }
+  ],
+  [
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-10T20:30:10.291853+00:00",
+      "last_updated": "2022-05-10T20:20:10.291853+00:00",
+      "state": "not_home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-10T22:11:49.538295+00:00",
+      "last_updated": "2022-05-10T22:11:49.538295+00:00",
+      "state": "home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T05:27:06.301960+00:00",
+      "last_updated": "2022-05-11T05:27:06.301960+00:00",
+      "state": "not_home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T09:11:43.616984+00:00",
+      "last_updated": "2022-05-11T09:11:43.616984+00:00",
+      "state": "home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T09:15:19.182585+00:00",
+      "last_updated": "2022-05-11T09:15:19.182585+00:00",
+      "state": "not_home"
+    },
+    {
+      "attributes": {},
+      "entity_id": "person.jaeho",
+      "last_changed": "2022-05-11T11:11:43.616984+00:00",
+      "last_updated": "2022-05-11T11:11:43.616984+00:00",
+      "state": "home"
+    }
+  ],
+  [
+    {
+      "attributes": {},
+      "entity_id": "sun.sun",
+      "last_changed": "2022-05-10T15:00:00+00:00",
+      "last_updated": "2022-05-10T15:00:00+00:00",
+      "state": "below_horizon"
+    },
+    {
+      "attributes": {},
+      "entity_id": "sun.sun",
+      "last_changed": "2022-05-10T20:28:05.676845+00:00",
+      "last_updated": "2022-05-10T20:28:05.676845+00:00",
+      "state": "above_horizon"
+    },
+    {
+      "attributes": {},
+      "entity_id": "sun.sun",
+      "last_changed": "2022-05-11T10:30:19.134541+00:00",
+      "last_updated": "2022-05-11T10:30:19.134541+00:00",
+      "state": "below_horizon"
+    }
+  ]
+]
